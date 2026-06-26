@@ -1,0 +1,3 @@
+name,symbol,price,market_cap,volume,percent_1h,percent_24h,percent_7d,time,EMA_20,EMA_50,ATR,Swing,Breakout_Signal,SL,TP,Risk/Reward,Break_Level,Trend
+Ethereum,ETH/USDT,2984.44,360206742559,10579503414.28,0.18,0.42,1.25,2026-01-01,2981.651,2977.58,16.687,Low volatility,Valid Breakout (BUY),2930.024,3026.158,0.8,SR 2959.2259,Sideways
+Bitcoin,BTC/USDT,64813.313,1299272764881,24690542021.05,-0.84,1.35,-2.7,2026-06-22,64168.247,63665.976,1030.42,Normal volatility,Valid Breakout (BUY),59167.159,67389.363,0.5,SR 60970.394,Bullish
